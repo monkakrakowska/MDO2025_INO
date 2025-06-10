@@ -3,7 +3,7 @@
 ## Laboratorium 8
 
 Zainstalowałam drugą maszynę wirtualną z tym samym systemem operacyjnym co główna. Zmieniłam jej hostname na ansible-target i utworzyłam użytkownika o nazwie ansible. Zrobiłam migawke, sprawdziłam też w jaki sposób przeprowadzić eksport owej maszyny.
-
+ 
 ![alt text](image-16.png)
 
 ![alt text](image-17.png)
